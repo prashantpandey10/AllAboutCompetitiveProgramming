@@ -9,10 +9,10 @@ topics=soup.find("div","entry-inner")
 i=1
 for link,urls in zip(topics.findAll("strong"),topics.findAll("ul")):
 	print str(i)+"."+link.contents[0].encode('ascii','ignore')
-	f.write("["+str(i)+"."+link.contents[0].encode('ascii','ignore')+"\n"+"]")
+	f.write(str(i)+"."+link.contents[0].encode('ascii','ignore')+"\n")
 	for url in urls.findAll("li"):
 			if url.findAll("a"):
-				f.write("("+url.a["href"]+")")
+				f.write(url.a["href"])
 				print url.a["href"]
 			f.write("\n")
 	i+=1
