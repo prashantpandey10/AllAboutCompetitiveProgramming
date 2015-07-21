@@ -46,13 +46,13 @@ I will be adding more links in coming time.
 
 16.[HackerEarth Guide](http://blog.hackerearth.com/2013/09/competitive-programming-getting-started_11.html)
 
-17.[Awesome Personal "All in one" blog Part1](http://theshayna.com/data-structures-and-algorithms-tutorials/)
+17.[Awesome Personal "All in one" blog Part 1](http://theshayna.com/data-structures-and-algorithms-tutorials/)
 
-18.[Awesome Personal "All in one" blog Part2](http://theshayna.com/how-do-i-learn-to-code/)
+18.[Awesome Personal "All in one" blog Part 2](http://theshayna.com/how-do-i-learn-to-code/)
 
-19.[Awesome Personal "All in one" blog Part3](http://theshayna.com/learn-programming-with-books/)
+19.[Awesome Personal "All in one" blog Part 3](http://theshayna.com/learn-programming-with-books/)
 
-20.[Awesome Personal "All in one" blog Part4](http://theshayna.com/which-programming-language-should-i-learn/)
+20.[Awesome Personal "All in one" blog Part 4](http://theshayna.com/which-programming-language-should-i-learn/)
 
 21.[Like ToDo list of ALgorithms](https://www.learneroo.com/subjects/8)
 
@@ -76,6 +76,6 @@ I will be adding more links in coming time.
 
 31.[Mit Lectures and Solutions](https://mitpress.mit.edu/sites/default/files/titles/content/Intro_to_Algo_Selected_Solutions.pdf)
 
-32.[Python for Graphs Part1](https://www.python.org/doc/essays/graphs/)
+32.[Python for Graphs Part 1](https://www.python.org/doc/essays/graphs/)
 
-33.[Python for Graphs Part2](http://www.python-course.eu/graphs_python.php)
+33.[Python for Graphs Part 2](http://www.python-course.eu/graphs_python.php)
