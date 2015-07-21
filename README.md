@@ -54,7 +54,7 @@ I will be adding more links in coming time.
 
 20.[Awesome Personal "All in one" blog Part 4](http://theshayna.com/which-programming-language-should-i-learn/)
 
-21.[Like ToDo list of ALgorithms](https://www.learneroo.com/subjects/8)
+21.[Like ToDo list of ALgorithms (Not Free)](https://www.learneroo.com/subjects/8)
 
 22.[Google CodeJam](http://code.google.com/codejam)
 
