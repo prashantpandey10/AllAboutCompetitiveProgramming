@@ -1,0 +1,386 @@
+1.Basic Data Structures
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/data-structures/
+https://www.cs.bu.edu/teaching/c/stack/array/
+http://geeksquiz.com/queue-set-1introduction-and-array-implementation/
+http://codingfreak.blogspot.com/2009/08/implementation-of-singly-linked-list-in.html
+
+2.Binary Search
+http://geeksquiz.com/binary-search/
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/binary-search/
+
+3.Quick Sort
+http://geeksquiz.com/quick-sort/
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/sorting/
+
+4.Merge Sort
+http://geeksquiz.com/merge-sort/
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/sorting/
+
+5.Suffix Array
+http://discuss.codechef.com/questions/21385/a-tutorial-on-suffix-arrays
+http://apps.topcoder.com/forums/;jsessionid=BC99925E58CB2628CA9AA3AFC13F6593?module=Thread&threadID=627379&start=0
+http://www.spoj.com/problems/SUBST1/
+http://www.codechef.com/problems/MOU1H
+http://www.codechef.com/problems/TASTR
+
+6.Knuth-Morris-Pratt Algorithm
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/introduction-to-string-searching-algorithms/
+http://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/
+http://www.codechef.com/problems/KAN13C
+http://www.codechef.com/problems/TASHIFT
+http://www.codechef.com/problems/TRSUBTR
+
+7.Rabin-Karp Algorithm
+http://www.geeksforgeeks.org/searching-for-patterns-set-3-rabin-karp-algorithm/
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/introduction-to-string-searching-algorithms/
+http://www.codechef.com/problems/SSTORY
+
+8.Tries
+http://www.geeksforgeeks.org/trie-insert-and-search/
+http://www.geeksforgeeks.org/trie-delete/
+http://threads-iiith.quora.com/Tutorial-on-Trie-and-example-problems
+http://www.spoj.com/problems/SUBXOR/
+https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=345&page=show_problem&problem=2683
+http://www.codechef.com/problems/EST
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/using-tries/
+
+9.Depth First Search of Graph (DFS)
+http://www.geeksforgeeks.org/depth-first-traversal-for-a-graph/
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/introduction-to-graphs-and-their-data-structures-section-2/
+http://www.spoj.com/problems/PARADOX/
+http://www.spoj.com/problems/BUGLIFE/
+http://www.spoj.com/problems/PT07Z/
+
+10.Breadth First Search of Graph (BFS)
+http://www.geeksforgeeks.org/breadth-first-traversal-for-a-graph/
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/introduction-to-graphs-and-their-data-structures-section-2/
+http://www.codechef.com/problems/DIGJUMP
+http://www.spoj.com/problems/ONEZERO/
+http://www.spoj.com/problems/NAKANJ/
+
+11.Dijkstras Algorithm
+http://zobayer.blogspot.in/2009/12/dijkstras-algorithm-in-c.html
+http://e-maxx.ru/algo/dijkstra
+http://e-maxx.ru/algo/dijkstra_sparse
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/introduction-to-graphs-and-their-data-structures-section-3/
+http://www.codechef.com/problems/REN2013G
+http://www.spoj.com/problems/EZDIJKST/
+http://www.spoj.com/problems/SHPATH/
+
+12.Binary Indexed Tree
+http://codeforces.com/blog/entry/619
+http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=binaryIndexedTrees
+http://www.spoj.com/problems/HORRIBLE/
+http://www.spoj.com/problems/YODANESS/
+http://www.spoj.com/problems/INVCNT/
+http://www.spoj.com/problems/CTRICK/
+http://www.spoj.com/problems/DQUERY/
+http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=AB3AEBC0736E52FA815A3D4C633DE52F?doi=10.1.1.14.8917&rep=rep1&type=pdf
+
+13.Segment Tree (with lazy propagation)
+http://se7so.blogspot.in/2012/12/segment-trees-and-lazy-propagation.html
+http://letuskode.blogspot.in/2013/01/segtrees.html
+http://letuskode.blogspot.in/2013/01/segtrees.html
+http://discuss.codechef.com/questions/38770/lazy-propagation
+http://www.spoj.com/problems/HORRIBLE/
+
+
+14.Z algorithm
+https://www.cs.umd.edu/class/fall2011/cmsc858s/Lec02-zalg.pdf
+http://codeforces.com/blog/entry/3107
+
+
+15.Floyd Warshall Algorithm
+http://www.geeksforgeeks.org/dynamic-programming-set-16-floyd-warshall-algorithm/
+http://www.spoj.com/problems/AMR11F/
+http://community.topcoder.com/stat?c=problem_statement&pm=2356
+
+16.Sparse Table(Range Minimum Query)
+http://mayanknatani.wordpress.com/2013/07/15/range-minimum-query/
+https://sites.google.com/site/indy256/algo/sparse_table_rmq
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/range-minimum-query-and-lowest-common-ancestor/
+
+17.Priority Queue / Heap Sort
+http://www.cprogramming.com/tutorial/computersciencetheory/heapcode.html
+http://www.sourcetricks.com/2011/06/c-heaps.html#.U9z8J_mSzfc
+http://pages.cs.wisc.edu/~vernon/cs367/notes/11.PRIORITY-Q.html
+http://www.codechef.com/problems/REVERSE
+
+18.Modular Multiplicative Inverse
+http://comeoncodeon.wordpress.com/2011/10/09/modular-multiplicative-inverse/
+
+19.nCr Problems
+http://discuss.codechef.com/questions/3869/best-known-algos-for-calculating-ncr-m
+
+20.Suffix Automation
+http://www.geeksforgeeks.org/searching-for-patterns-set-5-finite-automata/
+http://www.geeksforgeeks.org/pattern-searching-set-5-efficient-constructtion-of-finite-automata/
+http://e-maxx.ru/algo/suffix_automata
+http://www.codechef.com/problems/SUBQUERY
+http://www.codechef.com/problems/TSUBSTR
+http://www.codechef.com/problems/SSTORY
+http://www.codechef.com/problems/MOU1H
+http://www.cs.nyu.edu/~mohri/pub/nfac.pdf
+
+21.Lowest Common Ancestor
+http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/
+http://www.codechef.com/LTIME14/problems/TALCA
+http://www.spoj.com/problems/LCA/
+http://www.topcoder.com/tc?d1=tutorials&d2=lowestCommonAncestor&module=Static
+http://ab.inf.uni-tuebingen.de/people/fischer/lsa.pdf
+
+22.Counting Inversion
+http://www.codechef.com/problems/DYNAINV
+http://www.geeksforgeeks.org/counting-inversions/
+http://www.quora.com/How-to-count-inversions-using-Segment-Tree-of-an-given-array
+http://pavelsimo.blogspot.in/2012/09/counting-inversions-in-array-using-BIT.html
+
+23.Euclid Extended Algorithm
+http://discuss.codechef.com/questions/20842/a-tutorial-on-the-extended-euclids-algorithm
+
+24.Suffix Tree
+http://stackoverflow.com/questions/9452701/ukkonens-suffix-tree-algorithm-in-plain-english
+http://www.cise.ufl.edu/~sahni/dsaaj/enrich/c16/suffix.htm
+http://www.allisons.org/ll/AlgDS/Tree/Suffix/
+http://marknelson.us/1996/08/01/suffix-trees/
+http://marknelson.us/attachments/1996/suffix-trees/stree2006.cpp
+http://www.sanfoundry.com/cpp-program-implement-suffix-tree/
+http://www.spoj.com/problems/LCS/
+http://www.codechef.com/OCT11/problems/REPSTR
+http://www.spoj.com/problems/BEADS/
+http://www.codechef.com/problems/TASTR
+
+25.Dynamic Programming
+http://codeforces.com/blog/entry/8219
+http://www.geeksforgeeks.org/longest-monotonically-increasing-subsequence-size-n-log-n/
+http://codeforces.com/blog/entry/337
+http://www.ugrad.cs.ubc.ca/~cs490/sec202/notes/dp/DP%202.pdf
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/dynamic-programming-from-novice-to-advanced/
+http://www.codechef.com/problems/LEPAINT
+http://www.codechef.com/problems/MAXPR
+http://www.codechef.com/problems/COINS
+http://www.codechef.com/problems/MARCHA1
+http://discuss.codechef.com/questions/47239/frogv-editorial
+http://www.codechef.com/problems/TSHIRTS
+http://community.topcoder.com/stat?c=problem_statement&pm=11566
+http://www.spoj.com/problems/SOCOLA/
+http://www.spoj.com/problems/TRSTAGE/
+http://www.spoj.com/problems/LAZYCOWS/
+http://www.spoj.com/problems/HIST2/
+http://www.spoj.com/problems/MKPAIRS/
+http://www.spoj.com/problems/NKLEAVES/
+http://www.spoj.com/problems/DRAGON2/
+
+26.Logarithmic Exponentiation
+http://discuss.codechef.com/questions/20451/a-tutorial-on-fast-modulo-multiplication-exponential-squaring
+
+27.Graphs
+http://discuss.codechef.com/questions/17801/introduction-to-graphs-definitions-traversal-depth-first-search
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/introduction-to-graphs-and-their-data-structures-section-1/
+http://www.codechef.com/problems/DRGHTS
+http://www.codechef.com/problems/DIREL
+
+28.Minimum Spanning Tree
+https://www.ics.uci.edu/~eppstein/161/960206.html
+http://www.geeksforgeeks.org/greedy-algorithms-set-2-kruskals-minimum-spanning-tree-mst/
+http://www.geeksforgeeks.org/greedy-algorithms-set-5-prims-minimum-spanning-tree-mst-2/
+http://www.spoj.com/problems/MST/
+http://www.spoj.com/problems/CSTREET/
+http://www.spoj.com/problems/BLINNET/
+http://community.topcoder.com/stat?c=problem_statement&pm=7921&rd=10765
+http://community.topcoder.com/stat?c=problem_statement&pm=7643&rd=12058
+
+29.Efficient Prime Factorization
+http://www.geeksforgeeks.org/print-all-prime-factors-of-a-given-number/
+
+30.Combinatorics
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/basics-of-combinatorics/
+http://www.codechef.com/problems/BINTOUR
+
+31.Knapsack Problem
+http://www.geeksforgeeks.org/dynamic-programming-set-10-0-1-knapsack-problem/
+
+32.Union Find /Disjoint Set
+http://www.cs.cornell.edu/~wdtseng/icpc/notes/graph_part4.pdf
+http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=disjointDataStructure
+http://www.codechef.com/problems/DISHOWN
+http://www.spoj.com/problems/BLINNET/
+http://www.spoj.com/problems/CHAIN/
+
+33.Aho-Corasick String Matching Algorithm
+http://www.cs.sun.ac.za/~lvzijl/courses/rw778/autappl/crous-hw2.pdf
+https://gist.github.com/andmej/1233426
+http://www.codechef.com/problems/FAVNUM
+http://community.topcoder.com/stat?c=problem_statement&pm=11514&rd=14544
+http://community.topcoder.com/stat?c=problem_statement&pm=6017
+http://www.spoj.com/problems/WPUZZLES/
+
+34.Strongly Connected Components
+http://www.cs.berkeley.edu/~vazirani/s99cs170/notes/lec12.pdf
+http://www.geeksforgeeks.org/strongly-connected-components/
+http://www.spoj.com/problems/BOTTOM/
+http://www.spoj.com/problems/BREAK/
+http://community.topcoder.com/stat?c=problem_statement&pm=8488&rd=11125
+
+35.Bellman Ford Algorithm
+http://www.geeksforgeeks.org/dynamic-programming-set-23-bellman-ford-algorithm/
+http://compprog.wordpress.com/2007/11/29/one-source-shortest-path-the-bellman-ford-algorithm/
+http://community.topcoder.com/stat?c=problem_statement&pm=10580
+http://codeforces.com/problemset/problem/346/D
+
+36.Heavy-Light Decomposition
+http://blog.anudeep2011.com/heavy-light-decomposition/
+http://wcipeg.com/wiki/Heavy-light_decomposition
+http://www.spoj.com/problems/QTREE6/
+http://www.codechef.com/problems/PUSHFLOW
+http://www.codechef.com/problems/GERALD2
+http://www.codechef.com/problems/QTREE
+http://www.codechef.com/problems/QUERY
+http://www.codechef.com/problems/DGCD
+
+37.Convex Hull
+http://www.geeksforgeeks.org/convex-hull-set-1-jarviss-algorithm-or-wrapping/
+http://www.geeksforgeeks.org/convex-hull-set-2-graham-scan/
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/geometry-concepts-line-intersection-and-its-applications/
+http://stanford.edu/~liszt90/acm/notebook.html#file8
+https://www.topcoder.com/stat?c=problem_statement&pm=3996&rd=7224
+http://codeforces.com/problemset/problem/166/B
+http://community.topcoder.com/stat?c=problem_statement&pm=1960&rd=4670
+http://acm.timus.ru/problem.aspx?space=1&num=1185
+
+38.Line Intersection
+http://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/geometry-concepts-line-intersection-and-its-applications/
+
+39.Sieve of Erastothenes
+http://www.geeksforgeeks.org/sieve-of-eratosthenes/
+
+40.Interval Tree
+http://www.dgp.toronto.edu/people/JamesStewart/378notes/22intervals/
+http://www.geeksforgeeks.org/interval-tree/
+http://www.codechef.com/problems/FLIPCOIN/
+http://www.spoj.com/problems/THRBL/
+http://www.spoj.com/problems/LITE/
+http://www.spoj.com/problems/FREQUENT/
+http://www.spoj.com/problems/GSS1/
+http://www.spoj.com/problems/GSS3/
+
+41.Counting Sort
+http://www.geeksforgeeks.org/counting-sort/
+
+42.Probabilities
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/understanding-probabilities/
+
+43.Building up the recurrence matrix to compute recurrences in O(logN) time
+http://discuss.codechef.com/questions/2335/building-up-the-recurrence-matrix-to-compute-recurrences-in-ologn-time
+
+44.Network flow
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/maximum-flow-section-1/
+http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=maxFlow2
+http://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/
+http://www.geeksforgeeks.org/minimum-cut-in-a-directed-graph/
+http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=minimumCostFlow1
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/minimum-cost-flow-part-2-algorithms/
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/minimum-cost-flow-part-3-applications/
+http://e-maxx.ru/algo/dinic
+http://e-maxx.ru/algo/edmonds_karp
+http://www.codechef.com/problems/TWOCOMP
+http://www.codechef.com/problems/LONGART
+http://www.codechef.com/problems/ANUBTT
+http://www.codechef.com/problems/ORDERAAM
+http://www.codechef.com/problems/PARADE
+http://www.codechef.com/problems/CAKE2AM
+http://www.spoj.com/problems/EN/
+http://www.spoj.com/problems/POTHOLE/
+http://www.spoj.com/problems/SCITIES/
+http://www.spoj.com/problems/GREED/
+http://www.spoj.com/problems/TOURS/
+http://community.topcoder.com/stat?c=problem_statement&pm=1931&rd=4709
+http://community.topcoder.com/stat?c=problem_statement&pm=2852&rd=5075
+http://community.topcoder.com/stat?c=problem_statement&pm=3530&rd=6535
+
+45.K-d Tree
+http://web.stanford.edu/class/cs106l/handouts/assignment-3-kdtree.pdf
+http://www.autonlab.org/autonweb/14665/version/2/part/5/data/moore-tutorial.pdf?branch=main&language=en
+http://rosettacode.org/wiki/K-d_tree
+
+46.Binary Search Tree
+http://www.sourcetricks.com/2011/06/binary-search-trees-in-c.html#.U--wAvmSzfc
+http://geeksquiz.com/binary-search-tree-set-1-search-and-insertion/
+http://geeksquiz.com/binary-search-tree-set-2-delete/
+
+47.Deque
+http://www.sourcetricks.com/2011/06/c-deque.html#.U--v__mSzfc
+
+48.Quick Select
+http://www.sourcetricks.com/2011/06/quick-select.html#.U_CQ0_mSzfc
+http://rosettacode.org/wiki/Quickselect_algorithm#C.2B.2B
+
+49.Treap / Cartesian Tree
+http://habrahabr.ru/post/101818/
+http://e-maxx.ru/algo/treap
+
+50.Game Theory
+http://www.math.ucla.edu/~tom/Game_Theory/comb.pdf
+http://letuskode.blogspot.ch/2014/08/grundy-numbers.html
+http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=algorithmGames
+http://www.thelearningpoint.net/home/mathematics/an-introduction-to-game-theory
+http://www.thelearningpoint.net/home/mathematics/a-totorial-on-extensive-games-with-problems-and-solutions
+http://www.thelearningpoint.net/home/mathematics/bayesian-games---games-with-incomplete-information
+http://www.thelearningpoint.net/home/mathematics/repeated-games---tutorial-and-solved-problems
+http://www.codechef.com/wiki/tutorial-game-theory
+http://www.spoj.com/problems/NGM/
+http://www.spoj.com/problems/MCOINS/
+http://www.spoj.com/problems/QCJ3/
+http://www.spoj.com/problems/RESN04/
+http://www.spoj.com/problems/MMMGAME/
+http://www.spoj.com/problems/PEBBMOV/
+http://www.codechef.com/problems/CHEFBRO
+http://www.spoj.com/problems/HUBULLU/
+http://www.codechef.com/problems/BIGPIZA
+http://codeforces.com/contest/87/problem/C
+http://www.spoj.com/problems/CRSCNTRY/
+
+51.Standard Template Library
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/power-up-c-with-the-standard-template-library-part-i/
+http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/power-up-c-with-the-standard-template-library-part-ii-advanced-uses/
+
+52.Maximum Bipartite Matching
+http://www.geeksforgeeks.org/maximum-bipartite-matching/
+
+53.Manachers Algorithm
+http://tarokuriyama.com/projects/palindrome2.php
+http://leetcode.com/2011/11/longest-palindromic-substring-part-ii.html
+http://tristan-interview.blogspot.in/2011/11/longest-palindrome-substring-manachers.html
+http://e-maxx.ru/algo/palindromes_count
+http://acm.timus.ru/problem.aspx?space=1&num=1937
+http://www.spoj.com/problems/LPS/
+http://www.spoj.com/problems/MSUBSTR/
+
+54.Miller-Rabin Primality Test
+http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=primalityTesting
+http://rosettacode.org/wiki/Miller-Rabin_primality_test#C
+
+55.Stable Marriage Problem
+http://www.geeksforgeeks.org/stable-marriage-problem/
+
+56.Hungarian Problem
+http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=hungarianAlgorithm
+
+57.Sweep Line Algorithm
+https://www.topcoder.com/tc?module=Static&d1=tutorials&d2=lineSweep
+http://www.geeksforgeeks.org/given-a-set-of-line-segments-find-if-any-two-segments-intersect/
+
+58.LCP
+http://codeforces.com/blog/entry/12796#comment-175287
+http://e-maxx.ru/algo/suffix_array#7
+
+59.Gaussian Elimination
+http://compprog.wordpress.com/2007/12/11/gaussian-elimination/
+
+60.Pollard Rho Integer Factorization
+http://www.cs.colorado.edu/~srirams/classes/doku.php/pollard_rho_tutorial
+
+61.Topological Sorting
+http://www.geeksforgeeks.org/topological-sorting/
+
