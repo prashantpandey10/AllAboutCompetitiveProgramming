@@ -1,5 +1,4 @@
-[1.Basic Data Structures
-](http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/data-structures/)
+[1.Basic Data Structures](http://help.topcoder.com/data-science/competing-in-algorithm-challenges/algorithm-tutorials/data-structures/)
 (https://www.cs.bu.edu/teaching/c/stack/array/)
 (http://geeksquiz.com/queue-set-1introduction-and-array-implementation/)
 (http://codingfreak.blogspot.com/2009/08/implementation-of-singly-linked-list-in.html)
