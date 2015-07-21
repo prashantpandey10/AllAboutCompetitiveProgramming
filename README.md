@@ -1,5 +1,10 @@
 Hi All,
 
+## Note : 
+naive.py is used for scraping "theShayna.com" which contains all links to many tutorials algorithms and concepts.
+You can find the output in out.txt
+
+##Purpose
 
 I am trying to build a good collection of all possible links available online which can help any aspiring coder to get help in any sort of online programming journey, ranging from solving a small assignment online to participating in big contest on various online judged contests.
 
