@@ -84,3 +84,7 @@ I will be adding more links in coming time.
 32.[Python for Graphs Part 1](https://www.python.org/doc/essays/graphs/)
 
 33.[Python for Graphs Part 2](http://www.python-course.eu/graphs_python.php)
+
+34.[Small Effective Problem](http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
+
+35.[The best explanation - KMP Algo](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)
