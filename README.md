@@ -4,13 +4,13 @@ Hi All,
 naive.py is used for scraping "theShayna.com" which contains all links to many tutorials algorithms and concepts.
 You can find the output in out.txt
 
-##Purpose
+## Purpose
 
 I am trying to build a good collection of all possible links available online which can help any aspiring coder to get help in any sort of online programming journey, ranging from solving a small assignment online to participating in big contest on various online judged contests.
 
 Pull , comment , issue anything is welcome. And also do help me in building this into a huge dictionary which can help anyone and do drop a mail if you find this useful.
 
-You can reach me at prashantpandeyfun10@gmail.com
+You can reach me at pandey.prashant6592@gmail.com
 
 
 I will be adding more links in coming time.
